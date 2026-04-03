@@ -28,8 +28,7 @@ htmlcov/
 
 # IDE/editor settings
 .idea/
-.vscode/*
-!.vscode/settings.json
+.vscode/
 
 # OS artifacts
 .DS_Store
