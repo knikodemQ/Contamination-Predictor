@@ -119,7 +119,7 @@ npm run dev
 
 ### Web
 
-![Konfiguracja 10](images/web.jpg)
+![Konfiguracja 10](images/Web.jpg)
 
 
 
