@@ -1,0 +1,3 @@
+app_data/
+*.sqlite3
+*.db

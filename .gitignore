@@ -1,0 +1,57 @@
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Python cache / build artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+dist/
+*.egg-info/
+.eggs/
+pip-wheel-metadata/
+
+# Testing and tooling cache
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+.coverage.*
+htmlcov/
+
+# Notebooks and local runtime files
+.ipynb_checkpoints/
+
+# IDE/editor settings
+.idea/
+.vscode/*
+!.vscode/settings.json
+
+# OS artifacts
+.DS_Store
+Thumbs.db
+
+# Large input datasets not intended for git
+data_preparation/gcoos_2010_12_sea_water_current.csv
+data_preparation/gcoos_2010_12_wind.csv
+
+# Generated simulation outputs
+oil_mass_data/step_*.json
+oil_spill_output/oil_spill_*.png
+
+# Frontend artifacts
+frontend/node_modules/
+frontend/dist/
+
+# Backend local database
+backend/app_data/
+*.sqlite3
+*.db
+
+# Local project documentation
+dokumentacja.md
+dokumentacja_ui.md

@@ -1,0 +1,10 @@
+numpy
+pandas
+matplotlib
+cartopy
+Pillow
+rasterio
+scipy
+tk
+fastapi
+uvicorn[standard]
